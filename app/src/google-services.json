@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340122709821",
+    "project_id": "notes-beda6",
+    "storage_bucket": "notes-beda6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340122709821:android:f9f32fa751c49a9d7e9f54",
+        "android_client_info": {
+          "package_name": "com.example.notesquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340122709821-i27lv47oj0rqklv7c580cdd8tb1aomir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesquotes",
+            "certificate_hash": "df281fe978eee7fa13a019e0d6c3c18dcfaa810c"
+          }
+        },
+        {
+          "client_id": "340122709821-i2f63f7kt0i7cubp0161hk5mbfv9fv9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGdFrCtq57x07YSGjaBceh3McBlwRKnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340122709821-a6c8rnv4gtm4cr6k0p5btip01qm3e8c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
